@@ -1,7 +1,8 @@
 Customer Churn Prediction
-This repository contains a Python-based machine learning project to predict customer churn using the Telco Customer Churn dataset, showcasing my skills in data analysis and modeling.
-Overview
 
+This repository contains a Python-based machine learning project to predict customer churn using the Telco Customer Churn dataset, showcasing my skills in data analysis and modeling.
+
+Overview
 Problem: Predict whether a customer will churn based on features like tenure, monthly charges, and service subscriptions.
 Dataset: Telco-Customer-Churn.csv (publicly available from Kaggle/IBM, ~7,000 records).
 Technologies: Python, pandas, seaborn, matplotlib, scikit-learn.
